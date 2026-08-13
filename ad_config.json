@@ -1,5 +1,5 @@
 {
-  "enable_ads": true,
+  "enable_ads": false,
   "github_config_url": "https://raw.githubusercontent.com/budisinatra51-gif/gulf/main/ad_config.json",
   "banner": {
     "enabled": true,
