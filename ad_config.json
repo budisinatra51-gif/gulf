@@ -3,7 +3,7 @@
   "github_config_url": "https://raw.githubusercontent.com/budisinatra51-gif/gulf/main/ad_config.json",
   "banner": {
     "enabled": true,
-    "unit_id": "ca-app-pub-3940256099942544/6300978111"
+    "unit_id": "0"
   },
   "interstitial": {
     "enabled": true,
@@ -15,7 +15,7 @@
     "unit_id": "0"
   },
   "app_open": {
-    "enabled": true,
-    "unit_id": "ca-app-pub-3940256099942544/9257399568"
+    "enabled": false,
+    "unit_id": "0"
   }
 }
