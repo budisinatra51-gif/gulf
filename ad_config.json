@@ -7,7 +7,7 @@
   },
   "interstitial": {
     "enabled": true,
-    "unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "unit_id": "0",
     "interval_clicks": 5
   },
   "native": {
