@@ -1,0 +1,21 @@
+{
+  "enable_ads": true,
+  "github_config_url": "https://raw.githubusercontent.com/your-username/your-repo/main/ad_config.json",
+  "banner": {
+    "enabled": true,
+    "unit_id": "ca-app-pub-3940256099942544/6300978111"
+  },
+  "interstitial": {
+    "enabled": true,
+    "unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "interval_clicks": 3
+  },
+  "native": {
+    "enabled": true,
+    "unit_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "app_open": {
+    "enabled": true,
+    "unit_id": "ca-app-pub-3940256099942544/9257399568"
+  }
+}
