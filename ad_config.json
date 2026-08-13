@@ -11,7 +11,7 @@
     "interval_clicks": 5
   },
   "native": {
-    "enabled": true,
+    "enabled": false,
     "unit_id": "ca-app-pub-3940256099942544/2247696110"
   },
   "app_open": {
