@@ -1,6 +1,6 @@
 {
   "enable_ads": true,
-  "github_config_url": "https://raw.githubusercontent.com/your-username/your-repo/main/ad_config.json",
+  "github_config_url": "https://raw.githubusercontent.com/budisinatra51-gif/gulf/main/ad_config.json",
   "banner": {
     "enabled": true,
     "unit_id": "ca-app-pub-3940256099942544/6300978111"
