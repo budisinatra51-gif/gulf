@@ -2,20 +2,20 @@
   "enable_ads": false,
   "github_config_url": "https://raw.githubusercontent.com/budisinatra51-gif/gulf/main/ad_config.json",
   "banner": {
-    "enabled": true,
+    "enabled": false,
     "unit_id": "ca-app-pub-3940256099942544/6300978111"
   },
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "unit_id": "ca-app-pub-3940256099942544/1033173712",
     "interval_clicks": 3
   },
   "native": {
-    "enabled": true,
+    "enabled": false,
     "unit_id": "ca-app-pub-3940256099942544/2247696110"
   },
   "app_open": {
-    "enabled": true,
+    "enabled": false,
     "unit_id": "ca-app-pub-3940256099942544/9257399568"
   }
 }
