@@ -8,7 +8,7 @@
   "interstitial": {
     "enabled": false,
     "unit_id": "0",
-    "interval_clicks": 5
+    "interval_clicks": 3
   },
   "native": {
     "enabled": false,
