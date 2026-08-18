@@ -1,13 +1,13 @@
 {
-  "enable_ads": false,
+  "enable_ads": true,
   "github_config_url": "https://raw.githubusercontent.com/budisinatra51-gif/gulf/main/ad_config.json",
   "banner": {
-    "enabled": false,
-    "unit_id": "0"
+    "enabled": true,
+    "unit_id": "ca-app-pub-7862901369966352/6930776364"
   },
   "interstitial": {
-    "enabled": false,
-    "unit_id": "0",
+    "enabled": true,
+    "unit_id": "ca-app-pub-7862901369966352/9262330193",
     "interval_clicks": 3
   },
   "native": {
