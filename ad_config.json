@@ -11,8 +11,8 @@
     "interval_clicks": 3
   },
   "native": {
-    "enabled": true,
-    "unit_id": "ca-app-pub-7862901369966352/5620111426"
+    "enabled": false,
+    "unit_id": "0"
   },
   "app_open": {
     "enabled": false,
